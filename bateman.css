@@ -1,0 +1,22 @@
+img{
+  width: 900px;
+  height:500px;
+margin-left: 250px;
+border: none;
+border-radius: 2px;
+
+}
+h1 ,h2{
+  font-family: Helvetica;
+  text-align: center;
+  font-weight: bold;
+  color: RGB(192, 192, 192);
+}
+body{
+background-color: RGB(155, 0, 0);
+}
+h3{
+  font-family: Helvetica;
+  font-weight: bold;
+  color: olive;
+}
